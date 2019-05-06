@@ -28,5 +28,21 @@ AWS Elastic Beanstalk - automatin in file
 Amazon CloudFront - cash servers
 Amazon CloudWatch - see your sistems
 Amazon S3 - simple storage service
+Amazon Glacier - archive data, freind S3
+Amazon EFS - Elastic file sistem - atach your disk
+AWS CloudFormation - one file ran server
+AWS OpsWorks - chef ops work
+Amazon RDS - data bases 
+Amazon DynomoDB - no sql amazon db
+Amazon Redshift - analitic big data
+Amazon - Elastic Make Reduce - big data
+IAM - Identii Action Manager - Users,groups
+Amazon VPC - Virtual prived network
+Amazon Route 53 - domains servers, port 53, dinamic DNS
+Amazon SES - sever imails
+Amazon SNS - sms , messages (with CloudWatch)
+Amazon SQS - 
+
+
 
 
