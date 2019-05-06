@@ -15,3 +15,18 @@ AWS CERTIFIED
 
 4) DevOps Engineer
 5) Solutions architect
+
+***********************************************Region - location 
+Availability Zone - Isol Data Center
+Example regions
+us-west-1, us-west-1a ..
+ca-central-1 ..
+******************************************Services:**************************************
+Amazon EC2 - virtual instance(servers)
+Elastic Load Balancing - elastich servers
+AWS Elastic Beanstalk - automatin in file 
+Amazon CloudFront - cash servers
+Amazon CloudWatch - see your sistems
+Amazon S3 - simple storage service
+
+
