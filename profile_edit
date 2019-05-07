@@ -1,0 +1,13 @@
+Console -> IAM
+
+1) Password Policy
+ check Require at least one number
+2) Create individual IAM users,group
+   -> create user -> access type1
+    -> set password
+      ->create group
+        -> Group name
+          ->select policy
+3) MFA
+  -> install Authy 2-Factor Authentication
+  -> scan QR code
