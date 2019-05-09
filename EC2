@@ -20,3 +20,15 @@
         ->download
       -> Launch
     
+Run Windows Server
+  -> copy ip address
+  -> run: mstsc (Remote Desctop Connection)
+  -> connect
+  
+Install Web Server Windows (IIS)
+  -> Server Manager
+    -> Add Roles and Features Wizard
+      -> next,next,next , Select server role
+                            -> Web server
+                              -> Add Features
+  -> Site location: C/inetpub/wwwroot
