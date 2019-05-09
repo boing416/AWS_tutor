@@ -1,0 +1,7 @@
+For Linux:
+  -> need python
+  -> sudo apt-get install awscli
+  
+For Windows:
+  -> pip install awscli
+  
