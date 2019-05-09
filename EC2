@@ -4,4 +4,14 @@
     -> Choose an Instance Type
     -> Configure Instance 
       ->check - Protect against accidental termination
-    
+    -> Add Storage
+      -> Add value
+    -> Add Tags
+    -> Configure Security Group
+      -> Security group name: MyFirewall-HTTP-HTTPS-RDP
+      -> Description: MyFirewall-HTTP-HTTPS-RDP
+      -> Type:      Protocol:     Port Range:   Source:
+         HTTP       TCP           80            Anywhere 
+         HTTPS      TCP           443           Anywhere
+         RDP        TCP           3389          Anywhere
+            
