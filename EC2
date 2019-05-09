@@ -15,4 +15,8 @@
          HTTPS      TCP           443           Anywhere
          RDP        TCP           3389          Anywhere
       -> Review        
+      -> Select or Create new key pair
+        ->create
+        ->download
+      -> Launch
     
