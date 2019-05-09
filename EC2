@@ -13,7 +13,8 @@
       -> Type:      Protocol:     Port Range:   Source:
          HTTP       TCP           80            Anywhere 
          HTTPS      TCP           443           Anywhere
-         RDP        TCP           3389          Anywhere
+ (WIN:)  RDP        TCP           3389          Anywhere
+ (LINUX:)SSH        TCP           22            Anywhere   
       -> Review        
       -> Select or Create new key pair
         ->create
@@ -35,3 +36,6 @@ Install Web Server Windows (IIS)
                             -> Web server
                               -> Add Features
   -> Site location: C/inetpub/wwwroot
+Install Linux WebServer
+  use programm MobaXterm
+  
