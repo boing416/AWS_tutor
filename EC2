@@ -1,0 +1,7 @@
+1) Runnung instance
+  -> Launch Instance
+    -> Choose an amazon Machine Image(AMI)
+    -> Choose an Instance Type
+    -> Configure Instance 
+      ->check - Protect against accidental termination
+    
